@@ -8,7 +8,7 @@ const Desktop1 = (props) => {
   return (
     <div className="desktop1-container">
       <Helmet>
-        <title>exported project</title>
+        <title>Patrick Gatal's Website</title>
       </Helmet>
       <div className="desktop1-desktop1">
         <span className="desktop1-text">
